@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+}
+p{
+    color: maroon;
+  }
+   li{
+       color: midnightblue;
+   }
+  img{
+      border: solid;
+      display: flexbox;
+  }
+ 
